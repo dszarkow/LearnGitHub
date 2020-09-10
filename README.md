@@ -1,5 +1,5 @@
 # LearnGithub
-A repo for learning and testing various Github features.
+A repo for learning and testing various GitHub features.
 
 GitHub can be intimidating for new users, but by using simple non-programming examples the essentials can be learned very quickly.
 
