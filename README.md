@@ -11,8 +11,12 @@ Let's start with a few files for a new website.
 
 Locally, I'll create a new HTML file named index.htm in my folder Github\LearnGithub. Then I'll copy that file to create three web pages named red.html, green.html, and blue.html.  Open GitHub Desktop and the three new files should be visible.
 
-Add a required Summary description of th changes, then click the Commit to Master button.  GitHub Desktop now knows that these files are part of the project.
+Add a required Summary description of the changes, then click the Commit to Master button.  GitHub Desktop now knows that these files are part of the project.
 
 Then, click the Push to Origin button.
 
-View the remote repository LearnGitHub repository in your browser.  The three new files should be visible.
+View the remote repository LearnGitHub in your browser.  The three new files should be visible.
+
+Next, edit the local file index.htm and add links to the three HTML files.  When finished, add a required summary, then click the Commit to Master button, then click the Push to Origin button.
+
+View the remote repository LearnGitHub in your browser.  The file index.html should now contain the three links.
