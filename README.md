@@ -3,7 +3,7 @@ A repo for learning and testing various GitHub features.
 
 GitHub can be intimidating for new users, but by using simple non-programming examples the essentials can be learned very quickly.
 
-##Preliminaries
+## Preliminaries
 
 Create a personal GitHub account.  Create a new remote repository named LearnGithub.
 
@@ -11,7 +11,7 @@ Download GitHub Desktop, so you can use the GUI interface and avoid typing direc
 
 Open the repository in GitHub Desktop.
 
-###Getting Started
+## Getting Started
 
 Edit the README.md file - add a little text to get started.
 
@@ -27,4 +27,9 @@ View the remote repository LearnGitHub in your browser.  The three new files sho
 
 Next, edit the local file index.htm and add links to the three HTML files.  When finished, add the required Summary, then click the Commit to Master button, then click the Push to Origin button.
 
-View the remote repository LearnGitHub in your browser.  The file index.html should now contain the three links.
+View the remote repository LearnGitHub in your browser.  The file index.html should now contain the three links.ating a Branch
+
+## Creating a Branch
+
+Now its time to add images to our web pages. For this task, we want to create a new branch for that task that can be assigned to a coworker.
+
