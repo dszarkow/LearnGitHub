@@ -27,7 +27,7 @@ View the remote repository LearnGitHub in your browser.  The three new files sho
 
 Next, edit the local file index.htm and add links to the three HTML files.  When finished, add the required Summary, then click the Commit to Master button, then click the Push to Origin button.
 
-View the remote repository LearnGitHub in your browser.  The file index.html should now contain the three links.ating a Branch
+View the remote repository LearnGitHub in your browser.  The file index.html should now contain the three links.
 
 ## Creating a Branch
 
